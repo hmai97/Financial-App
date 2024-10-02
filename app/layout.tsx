@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: 'Dynamite Trade',
   description: 'Invest your money with DTrade',
 }
-
+//body
 // Implement third-party tools such as authentication, dark mode within this file
 // Do not adding any styles
 export default function RootLayout({
